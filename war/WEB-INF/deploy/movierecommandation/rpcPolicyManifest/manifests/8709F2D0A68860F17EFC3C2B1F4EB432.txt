@@ -1,0 +1,2 @@
+serviceClass: com.myself.movie.client.services.RecommandService
+path: D2D01226358C482058A3FB35CE9675EA.gwt.rpc
